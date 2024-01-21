@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldV2</string>
+    <string name="gautham_intro">Hello World! My name is Gautham Nagrajan and I am taking CS388 Android Development and my favorite anime is Darling in the Franxx!!!</string>
+</resources>
